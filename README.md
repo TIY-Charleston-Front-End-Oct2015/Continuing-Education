@@ -6,6 +6,7 @@ If you don't use it, you lose it.  I'd recommend trying one or two of these ever
 * [Project Euler](https://projecteuler.net/) - This is more math based, but it really gets your brain churning.
 * [Stock Wars](http://stockwars.cidevelop.com/) - DISCLAIMER: I have not done this one.  However, I have heard good things from some friends.  For the aspiring day trader, create your portofolio and programatically change it as the stock market ebbs and flows.
 * [FreeCodeCamp](http://www.freecodecamp.com/) - DISCLAIMER: I have not done this one. I have read good things and at a cursory glance, it seems good.  You can skip to parts you think are more worth your time.
+
 ### Readings / Emails
 It's great to stay up-to-date on the happenings in the tech world.  News letters abound- I'll list a few below and some websites I frequent to see what's going on in the tech world.  
 * Websites
@@ -17,6 +18,7 @@ It's great to stay up-to-date on the happenings in the tech world.  News letters
  - [HTML 5 Weekly](http://html5weekly.com/)
  - [CSS Weekly](http://css-weekly.com/)
  - [Angular Weekly](http://paper.li/RaminZamani/1366929635)
+
 ### Courses -
 Some of these I have done. Many I have not.  Depending on what you are trying to sink your teeth into, there are a lot of options, and these are in no particular order.
 * [Understanding Javascript - The Weird Parts](https://www.udemy.com/understand-javascript/) - HIGHEST RECOMMENDATION - $15 ... and it goes on sale all the time so only buy it when it's $15.  This was a great way for me to gain a deeper understanding of how javascript is working underneath the hood. This particular lecturer has other courses, but this is his best. Highly recommended.  Plenty of other items on udemy, buy at your own risk.
