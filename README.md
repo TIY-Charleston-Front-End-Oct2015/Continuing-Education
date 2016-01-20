@@ -1,5 +1,5 @@
 # Continuing Education
-I hope you are wondering how to continue your personal growth.  How can you quench your thirst for knowledge. Unfortunately, you cannot! But, I can provide some materials that I hope will help satiate you for awhile.  
+I hope you are wondering how to continue your personal growth.  How can you quench your thirst for knowledge? Unfortunately, you cannot! But, I can provide some materials that I hope will help satiate you for awhile.  
 ### Programming
 If you don't use it, you lose it.  I'd recommend trying one or two of these every day at the minimum
 * [Codewars](www.codewars.com) - Highly Recommend - Signup with your github account. Choose your language.  And begin. If you get stuck on one for 15 minutes, hit the "show me the answer" button, and it will show you how every person has ever solved the problem.  Fantastic for fine-tuning your developer skills.
